@@ -17,4 +17,10 @@
 		"cms_icon": "https://cb-cms-integration.herokuapp.com/images/cms/wordpress-logo-icon.png",
 		"cms_logo_url": "https://cb-cms-integration.herokuapp.com/images/cms/wordpress-logo.png"	
 	}	
+	{
+		"cms_id": "seismic",
+		"cms_name": "Seismic",
+		"cms_icon": "https://cb-cms-integration.herokuapp.com/images/cms/Seismic_Icon.png",
+		"cms_logo_url": "https://cb-cms-integration.herokuapp.com/images/cms/Seismic_logo%20small.jpg"	
+	}		
 ]
